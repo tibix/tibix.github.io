@@ -8,5 +8,15 @@
         "3A:DA:9F:80:4B:96:41:A8:25:09:35:82:B6:D0:09:90:9A:EB:F4:E3:57:3C:FF:E2:72:14:11:0D:8E:D3:F2:39"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.agrilium.capriscan",
+      "sha256_cert_fingerprints": [
+        "0F:6F:91:F2:F2:EB:9E:33:A5:EA:5F:7E:D3:1D:FF:54:0A:47:F1:F6:79:DD:68:0D:A2:CC:C3:F0:49:94:C4:E5"
+      ]
+    }
   }
 ]
